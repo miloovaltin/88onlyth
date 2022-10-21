@@ -1,0 +1,16 @@
+{
+"name": "88onlyth",
+"theme": "88onlyth",
+"version": "5.4.7",
+"description": "88onlyth สมัครเว็บพนันเว็บตรง สมาชิกเยอะ รับโบนัสเครดิตฟรี",
+"keywords": [
+"88onlyth",
+"88onlyth เครดิตฟรี",
+"88onlyth ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/88onlyth",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
